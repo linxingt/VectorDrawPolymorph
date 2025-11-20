@@ -1,0 +1,26 @@
+﻿  Eleve.cpp
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\ObjGeom.h(161,38): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Eleve.cpp')
+  
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\ObjGeom.h(163,37): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Eleve.cpp')
+  
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\ObjGeom.h(167,13): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'Eleve.cpp')
+  
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Button.h(78,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source 'Eleve.cpp')
+  
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Tool.h(335,62): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Eleve.cpp')
+  
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Tool.h(337,61): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Eleve.cpp')
+  
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Eleve.cpp(64,44): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Eleve.cpp(65,44): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Eleve.cpp(66,44): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Eleve.cpp(67,45): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Eleve.cpp(84,44): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Eleve.cpp(91,15): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  PICTOR.vcxproj -> C:\Users\xingt\Desktop\projet\assignment-linxingt\PICTOR\Debug\Pictor.exe
