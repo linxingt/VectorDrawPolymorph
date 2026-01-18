@@ -13,38 +13,6 @@ Les ressources et les énoncés des travaux proviennent du site de cours officie
 
 ---
 
-## Architecture MVU
-
-### **Model**
-
-Contient l’état complet de l’application :
-
-* Outil courant
-* Position de la souris
-* Options de dessin
-* Liste des objets
-* Liste des boutons
-
-### **View**
-
-Effectue uniquement l’affichage :
-
-* Parcours des objets
-* Dessins des boutons
-* Dessin de l’outil actif
-* Dessin du curseur
-
-### **Update**
-
-Réagit aux évènements :
-
-* Propagation aux boutons
-* Puis à l’outil courant
-* Le Model est modifié ici
-* Aucun affichage n’est produit
-
----
-
 ## Objectifs Pédagogiques
 
 Ce projet constitue une démonstration de la compréhension et de la maîtrise de plusieurs concepts fondamentaux en C++, appliqués à la réalisation d’un logiciel de dessin vectoriel interactif.
@@ -62,17 +30,14 @@ Il met en avant les compétences suivantes :
 * **Gestion de la mémoire et pointeurs intelligents**
   Utilisation sûre d’objets dynamiques, stockage polymorphe via `std::unique_ptr` ou équivalent.
 
-* **Utilisation de la bibliothèque standard (STL)**
-  `std::vector`, `std::function`, `std::stringstream`, itérateurs, conteneurs et utilitaires modernes.
-
-* **Architecture logicielle (MVU : Model – View – Update)**
+* **Architecture logicielle**
   Séparation claire entre données, affichage et logique métier.
 
 * **Sérialisation et persistance**
   Sauvegarde/chargement de la scène, reconstruction des objets à partir d’une représentation textuelle.
 
 * **Gestion graphique et manipulation de figures géométriques**
-  Dessin, mise à jour en temps réel, superposition d’objets, affichage temporaire.
+  Dessin, mise à jour de la forme et des couleurs en temps réel, superposition d’objets.
 
 ---
 
